@@ -1,0 +1,25 @@
+
+body {
+    background-color: #66B3FF; 
+    background-image: url(unclejeff.jpg);
+    background-size: auto;
+    background-position: center 80px;
+    background-repeat: no-repeat;
+      
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  ul {
+    border: 1px solid black;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+    padding: 5px;
+    background-color: white;
+  }
